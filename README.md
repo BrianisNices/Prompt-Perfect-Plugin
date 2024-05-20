@@ -32,7 +32,7 @@ This [OpenAgents](https://openagents.com/) plugin used [PromptPerfect](https://p
 ```bash
 extism call plugin.wasm run --input '{"prompt": "YOUR_PROMPT", "targetModel": "YOUR_MODEL"}' --wasi
 ```
-Supported Moodel : 'chatgpt' | 'gpt-4' | 'stablelm-tuned-alpha-7b' | 'claude' | 'cogenerate' | 'text-davinci-003' | 'dalle' | 'sd' | 'midjourney' | 'kandinsky' | 'lexica'
+Supported Model : 'chatgpt' | 'gpt-4' | 'stablelm-tuned-alpha-7b' | 'claude' | 'cogenerate' | 'text-davinci-003' | 'dalle' | 'sd' | 'midjourney' | 'kandinsky' | 'lexica'
 
 ## Example
 ```bash
