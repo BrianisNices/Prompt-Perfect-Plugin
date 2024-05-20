@@ -1,6 +1,6 @@
 # Prompt Perfect Plugin
 
-This [OpenAgents](https://openagents.com/) plugin used PromptPerfect API to optimize prompts.
+This [OpenAgents](https://openagents.com/) plugin used [PromptPerfect](https://promptperfect.jina.ai/) API to enhance prompts.
 
 ## Getting Started
 
