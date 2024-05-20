@@ -7,8 +7,8 @@ This [OpenAgents](https://openagents.com/) plugin used [PromptPerfect](https://p
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/extism-go-prompt-optimization.git
-    cd extism-go-prompt-optimization
+    git clone https://github.com/BrianisNices/Prompt-Perfect-Plugin.git
+    cd Prompt-Perfect-Plugin
     ```
 
 2. **Install dependencies:**
